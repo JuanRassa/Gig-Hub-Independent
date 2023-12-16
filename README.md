@@ -1,4 +1,4 @@
-# Gig Hub Groove 
+# Gig Hub Independent 
 
 ## Description
 
