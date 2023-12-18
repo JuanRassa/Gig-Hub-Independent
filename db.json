@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "type": "festival",
+      "name": "Gig Hub Festival",
+      "geoCountryIso2": "PT",
+      "geoCityName": "Lisbon",
+      "start-date": "06-01-2024",
+      "end-date": "07-01-2024",
+      "location": {
+        "type": "venue",
+        "name": "Gig Hub Venue",
+        "capacity": 1500,
+        "postalAdress": "1200-383"
+      },
+      "performer": [
+        {
+          "id": 1,
+          "name": "Los Viles",
+          "geoCountryIso2": "CO",
+          "image": "https://f4.bcbits.com/img/a0999844042_16.jpg",
+          "genre": ["rock"],
+          "url": "/artists/los-viles"
+        },
+        {
+          "id": 2,
+          "name": "Amanda Coronha",
+          "geoCountryIso2": "BR",
+          "image": "https://uploads.metropoles.com/wp-content/uploads/2020/12/08213603/Amanda-Coronha-3.jpeg",
+          "genre": ["pop"],
+          "url": "/artists/amanda-coronha"
+        }
+      ],
+      "image": "https://f4.bcbits.com/img/a1318628070_16.jpg",
+      "description": "A great and brand new Festival for the first days of the year. Have fun."
+    },
+    {
+      "id": 2,
+      "type": "concert",
+      "name": "A Random One",
+      "geoCountryIso2": "ES",
+      "geoCityName": "Madrid",
+      "start-date": "28-02-2024",
+      "end-date": "28-02-2024",
+      "location": {
+        "type": "club",
+        "name": "Pabellón Multiusos",
+        "capacity": 16000,
+        "postalAdress": "28011"
+      },
+      "performer": [
+        {
+          "id": 1,
+          "name": "Los Viles",
+          "geoCountryIso2": "CO",
+          "image": "https://f4.bcbits.com/img/a0999844042_16.jpg",
+          "genre": ["rock"],
+          "url": "/artists/los-viles"
+        }
+      ],
+      "image": "https://www.madrid-destino.com/sites/default/files/styles/galeria_de_imagenes_1200_x_600/public/2019-03/PabellonMultiusosMadridArena_FrancescoPinton%20%281%29ok.jpg?itok=rr_qtMBm",
+      "description": "First Los Viles concert in Europe!"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Los Viles",
+      "geoCountryIso2": "CO",
+      "image": "https://f4.bcbits.com/img/a0999844042_16.jpg",
+      "genre": ["rock"],
+      "url": "/artists/los-viles"
+    },
+    {
+      "id": 2,
+      "name": "Amanda Coronha",
+      "geoCountryIso2": "BR",
+      "image": "https://uploads.metropoles.com/wp-content/uploads/2020/12/08213603/Amanda-Coronha-3.jpeg",
+      "genre": ["pop"],
+      "url": "/artists/amanda-coronha"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "juanrassa",
+      "password": "123",
+      "favorites": [""]
+    },
+    {
+      "id": 2,
+      "username": "yanemartins",
+      "password": "123",
+      "favorites": [""]
+    }
+  ]
+}
