@@ -27,8 +27,7 @@ Gig Hub Groove is an application created for people who endorse concerts and fes
     "name": String,
     "geoCountryIso2": String,
     "urlImage": String,
-    "genre": String[],
-    "url": String
+    "genre": String[]
   }
 ]
 "urlImage": String
@@ -42,8 +41,7 @@ Gig Hub Groove is an application created for people who endorse concerts and fes
 "name": String,
 "geoCountryIso2": String,
 "urlImage": String,
-"genre": String[],
-"url": String
+"genre": String[]
 ```
 
 ### Users

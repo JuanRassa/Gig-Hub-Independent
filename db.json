@@ -28,8 +28,7 @@
           "name": "Amanda Coronha",
           "geoCountryIso2": "BR",
           "image": "https://uploads.metropoles.com/wp-content/uploads/2020/12/08213603/Amanda-Coronha-3.jpeg",
-          "genre": ["pop"],
-          "url": "/artists/amanda-coronha"
+          "genre": ["pop"]
         }
       ],
       "image": "https://f4.bcbits.com/img/a1318628070_16.jpg",
@@ -55,8 +54,7 @@
           "name": "Los Viles",
           "geoCountryIso2": "CO",
           "image": "https://f4.bcbits.com/img/a0999844042_16.jpg",
-          "genre": ["rock"],
-          "url": "/artists/los-viles"
+          "genre": ["rock"]
         }
       ],
       "image": "https://www.madrid-destino.com/sites/default/files/styles/galeria_de_imagenes_1200_x_600/public/2019-03/PabellonMultiusosMadridArena_FrancescoPinton%20%281%29ok.jpg?itok=rr_qtMBm",
@@ -69,16 +67,14 @@
       "name": "Los Viles",
       "geoCountryIso2": "CO",
       "image": "https://f4.bcbits.com/img/a0999844042_16.jpg",
-      "genre": ["rock"],
-      "url": "/artists/los-viles"
+      "genre": ["rock"]
     },
     {
       "id": 2,
       "name": "Amanda Coronha",
       "geoCountryIso2": "BR",
       "image": "https://uploads.metropoles.com/wp-content/uploads/2020/12/08213603/Amanda-Coronha-3.jpeg",
-      "genre": ["pop"],
-      "url": "/artists/amanda-coronha"
+      "genre": ["pop"]
     }
   ],
   "users": [
